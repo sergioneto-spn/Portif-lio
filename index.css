@@ -88,6 +88,8 @@ main{
 }
 .projetos{
     justify-content: center;
+    justify-content: center;
+    align-items: center;
     align-items: center;
     margin-bottom: 10px;
     flex-wrap: wrap;
